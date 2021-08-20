@@ -123,7 +123,7 @@ module Prawn
           add('0629', 'fe93', 'fe94', 'fe93', 'fe94', false) # Ta2 Marbu6a
           add('0640', '0640', '0640', '0640', '0640', true)  # Tatweel
           add('0649', 'feef', 'fef0', 'feef', 'fef0', false) # Alef Layyina
-          add('0651', 'fe7c', 'fe7c', 'fe7c', 'fc62', false, true) # Shadda
+          add('0651', 'fc62', 'fc62', 'fc62', 'fc62', false, true) # Shadda
           add('0652', 'fe7e', 'fe7e', 'fe7e', 'fe7f', false, true) # Sukun
           add('064e', 'fe76', 'fe76', 'fe76', 'fe77', false, true) # Fatha
           add('0650', 'fe7a', 'fe7a', 'fe7a', 'fe7b', false, true) # Kasra
